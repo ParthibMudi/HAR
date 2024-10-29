@@ -13,3 +13,4 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 
 
 ### Test v3 - Building a Parallel Path Neural Network with Spatial and Temporal Attention Mechanisms for Multi-Class Classification Using TensorFlow
+test accuracy: 0.9269
