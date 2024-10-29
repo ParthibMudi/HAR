@@ -10,3 +10,6 @@ model.add(GRU(12, return_sequences=True))
 model.add(GRU(12)) 		
 model.add(Dense(NUM_CLASSES, activation='softmax')) 	
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])	
+
+
+### Test v3 - Building a Parallel Path Neural Network with Spatial and Temporal Attention Mechanisms for Multi-Class Classification Using TensorFlow
