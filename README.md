@@ -12,5 +12,5 @@ model.add(Dense(NUM_CLASSES, activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])	
 
 
-### Test v3 - Building a Parallel Path Neural Network with Spatial and Temporal Attention Mechanisms for Multi-Class Classification Using TensorFlow
+### Test v3 - Building a Parallel Path Neural Network with Spatial and Temporal Attention Mechanisms for Multi-Class Classification Using TensorFlow (updates)
 test accuracy: 0.9269
